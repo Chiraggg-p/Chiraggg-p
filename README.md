@@ -1,6 +1,6 @@
 Hi There! Chirag Here ☺
-🔭 Currently, I'm exploring Java ☕️.
-👀 I’m interested in Web Dev.
+🔭 Currently, I'm exploring Product Management.
+👀 I’m interested in Java Backend.
 🌱 Learning DSA and practicing questions.
 
 
